@@ -1,0 +1,12 @@
+C:\Users\asus\source\repos\CourseWork4\RailStation\bin\Debug\net6.0\RailStation.deps.json
+C:\Users\asus\source\repos\CourseWork4\RailStation\bin\Debug\net6.0\RailStation.dll
+C:\Users\asus\source\repos\CourseWork4\RailStation\bin\Debug\net6.0\RailStation.pdb
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\RailStation.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\RailStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\RailStation.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\RailStation.AssemblyInfo.cs
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\RailStation.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\RailStation.dll
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\refint\RailStation.dll
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\RailStation.pdb
+C:\Users\asus\source\repos\CourseWork4\RailStation\obj\Debug\net6.0\ref\RailStation.dll
